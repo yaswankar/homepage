@@ -2,9 +2,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">   
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([[https://www.linkedin.com/in/Dwivediaman/](https://www.linkedin.com/in/amaarshall-yaswankar-k-b3b33a145)](https://www.linkedin.com/in/amaarshall-yaswankar-k-b3b33a145))
-[<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>]([https://stackoverflow.com/users/13461811/confused](https://stackoverflow.com/users/11281152/amaarockz))
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]([https://www.instagram.com/born_69_confused/?hl=de](https://www.instagram.com/amaarrockz/))
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amaarshall-yaswankar-k-b3b33a145/)
+[<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/users/11281152/amaarockz)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/amaarrockz/)
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:yaswankar1998@gmail.com)
 
 
