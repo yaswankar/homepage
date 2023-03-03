@@ -16,8 +16,6 @@
 
 ### I love solving problems and using Data Structure and Algorithms. 
 
-### Also, I love starting new Projects and try to finish them.
-
 ### Currently, I'm working with javascript frameworks to develop Front and Backend of websites.
 </div>
 
@@ -160,7 +158,7 @@ No Activity Tracked This Week
 
 <div align="center">
   
-### Show some ❤️ by starring some of the repositories!
+### Please show some ❤️ by starring some of the repositories!
 ### Also drop a ⭐ if you like my profile!
 
 </div>
